@@ -1,0 +1,41 @@
+/*style 2*/
+body{
+  font-family: 'Quicksand', sans-serif;
+  background-color: #dddddd;
+  background-image: url(../images/pidgeon-background.jpg);
+}
+
+h1{
+  font-size: 2em;
+  line-height: 1.5;
+  color: #c12258;
+}
+
+p{
+  color: black;
+  font-size: 18px;
+  padding-top: 15px;
+}
+
+a{
+  font-size: 18px;
+  color: #c12258;
+  text-decoration: underline;
+}
+
+*:focus{
+  border: 1px solid red;
+}
+
+table{
+  border: 2px solid black;
+}
+
+.colhead{
+  width: 150px;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  text-transform: uppercase;
+  background-color: #7e0830;
+}
